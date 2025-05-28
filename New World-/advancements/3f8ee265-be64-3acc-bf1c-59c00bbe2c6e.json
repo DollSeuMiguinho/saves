@@ -1,0 +1,41 @@
+{
+  "gregtech:medium_voltage/34_silicon_boule": {
+    "criteria": {
+      "location": "2025-05-28 16:27:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-28 16:27:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-28 16:27:36 -0300"
+    },
+    "done": true
+  },
+  "gregtech:steam/1_first_tools": {
+    "criteria": {
+      "location": "2025-05-28 16:27:36 -0300"
+    },
+    "done": true
+  },
+  "gregtech:steam/2_more_tools": {
+    "criteria": {
+      "location": "2025-05-28 16:27:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2025-05-28 16:36:22 -0300",
+      "beaches": "2025-05-28 16:28:56 -0300",
+      "ocean": "2025-05-28 13:10:49 -0300",
+      "river": "2025-05-28 16:28:55 -0300"
+    },
+    "done": false
+  }
+}
