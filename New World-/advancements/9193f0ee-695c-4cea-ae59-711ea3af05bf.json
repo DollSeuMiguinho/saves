@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-08-19 14:18:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2024-01-21 20:36:00 -0200"
@@ -584,6 +590,12 @@
   "gregtech:steam/81_crafting_station": {
     "criteria": {
       "location": "2023-12-15 19:22:01 -0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-19 14:20:43 -0300"
     },
     "done": true
   },
@@ -683,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-08-19 14:19:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2023-12-10 14:35:50 -0200"
@@ -749,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-19 14:34:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-26 01:11:45 -0200"
@@ -764,6 +788,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-12-10 16:29:12 -0200"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-19 14:34:10 -0300"
     },
     "done": true
   },
@@ -965,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-08-19 14:19:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-10 15:37:56 -0200"
@@ -1001,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-08-19 14:19:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-01-22 22:12:18 -0200"
@@ -1028,6 +1070,18 @@
   "gregtech:low_voltage/23_lv_assembler": {
     "criteria": {
       "location": "2024-07-15 23:44:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-19 14:18:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-19 14:29:05 -0300"
     },
     "done": true
   },
@@ -1112,6 +1166,12 @@
   "appliedenergistics2:main/network_tool": {
     "criteria": {
       "network_tool": "2024-12-15 12:02:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-19 14:36:35 -0300"
     },
     "done": true
   },
@@ -1520,6 +1580,7 @@
       "forest_hills": "2024-07-16 08:42:19 -0300",
       "plains": "2023-12-10 15:05:50 -0200",
       "taiga": "2024-07-16 08:37:23 -0300",
+      "taiga_hills": "2025-08-19 14:20:21 -0300",
       "ocean": "2023-12-10 11:37:46 -0200",
       "extreme_hills": "2023-12-10 23:22:20 -0200",
       "roofed_forest": "2024-01-21 04:45:12 -0200",
@@ -1731,6 +1792,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-19 14:29:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2023-12-10 16:29:56 -0200"
@@ -1866,6 +1933,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-01-21 02:00:41 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-08-19 14:19:11 -0300"
     },
     "done": true
   },
