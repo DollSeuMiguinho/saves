@@ -5880,8 +5880,8 @@
     "208:10": {
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
-          "timestamp:4": 1755714314997,
+          "claimed:1": 1,
+          "timestamp:4": 1755946486209,
           "uuid:8": "9193f0ee-695c-4cea-ae59-711ea3af05bf"
         }
       },
